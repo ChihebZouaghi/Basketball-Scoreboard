@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>BasketBall ScoreBoard</title>
+
+    <link rel="stylesheet" href="myStyle.css" />
+  </head>
+  <body onload="startTimer()">
+
+    <div class="container">
+
+      <div id="home" class="score">
+        <p class="squad-style">HOME</p>
+        <p id="home-score" class="result-style">0</p>
+        <div class="wrap-button">
+          <button onclick="scoreCalculator(0,1)"><span class="score-style">+1</span></button>
+          <button onclick="scoreCalculator(0,2)"><span class="score-style">+2</span></button>
+          <button onclick="scoreCalculator(0,3)"><span class="score-style">+3</span></button>
+        </div>
+      </div>
+
+
+      <div id="timer" class="score">
+        <span id="countdown" class="timer-style">00:00</span>
+      </div>
+
+
+      <div id="guest" class="score">
+        <p class="squad-style">GUEST</p>
+        <p id="guest-score" class="result-style">0</p>
+        <div class="wrap-button">
+          <button onclick="scoreCalculator(1,1)"><span class="score-style">+1</span></button>
+          <button onclick="scoreCalculator(1,2)"><span class="score-style">+2</span></button>
+          <button onclick="scoreCalculator(1,3)"><span class="score-style">+3</span></button>
+        </div>
+      </div>
+
+
+    </div>
+
+    <script src="myJs.js"></script>
+  </body>
+</html>
