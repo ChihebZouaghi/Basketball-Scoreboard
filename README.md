@@ -44,3 +44,9 @@ Contributions to improve the quality of the code are welcomed. Since this is the
 ## Author
 This basketball scoreboard project is created and maintained by [Chiheb Zouaghi]. You can contact me at [mrchihebzouaghi@gmail.com] for any questions or inquiries.
 
+Follow me on social media:
+- [LinkedIn](https://www.linkedin.com/in/chiheb-zouaghi/)
+- [Instagram](https://www.instagram.com/chiheb.zouaghi/)
+- [TikTok](https://www.tiktok.com/@chiheb_zouaghi)
+- [YouTube Channel](https://www.youtube.com/mammimind)
+
