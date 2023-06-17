@@ -25,7 +25,7 @@ No installation steps or dependencies are required for running this project. Sim
 The basketball scoreboard application is designed to be simple to use. Upon opening the HTML file in a web browser, users will see the countdown timer displayed prominently. They can click on the +1, +2, or +3 buttons to increment the score for the corresponding team. The score updates dynamically on the screen, providing real-time feedback.
 
 ## Live Demo
-[click here](https://ZouaghiChiheb.github.io/Basketball-Scoreboard/index.html) 
+[click here](https://ZouaghiChiheb.github.io/Basketball-Scoreboard/) 
 
 ## Technologies
 The basketball scoreboard project is built using the following technologies:
