@@ -5,7 +5,7 @@
 - [Design](#design)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Live Demo](#demo)
+- [Live Demo](#live-demo)
 - [Technologies](#technologies)
 - [Features](#features)
 - [Contributing](#contributing)
